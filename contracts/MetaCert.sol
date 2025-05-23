@@ -3,7 +3,6 @@
 
 //sepolia: 0x5dEcd7CA736f6Bb41304597D1D15133617a7c331
 //v2 sepolia: 0x9Dc51E8Cfc9F88385376a685Bf7997426467f487
-//csc-testnet: 0x3F512bfe1Ee452a85281455598d6dbe7Cb751CD4
 
 pragma solidity ^0.8.4;
 
